@@ -70,7 +70,7 @@ public class DecimalParaBinV2 {
            if(k > 0){ System.out.println("Valor convertido em binário com sucesso!\n");
                JOptionPane.showMessageDialog(null,"Que tal vê-lo novamente em decimal!?");
                JOptionPane.showMessageDialog(null,decimal);
-             System.out.println("Valor convertido de volta em decimal é: "+ decimal);  //Valor binário conrtido de volta para decimal e 
+             System.out.println("Valor convertido de volta em decimal é: "+ decimal);  //Valor binário convertido de volta para decimal e 
                       //apresentado com sucesso
                       System.out.println("\n");
            }
