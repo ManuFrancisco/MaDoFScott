@@ -51,7 +51,7 @@ public class DecimalParaBinV2 {
                                                             //de valores inteiros**
        
        for(cont = Bit.length - 1; cont >= 0; cont--)
-         System.out.print(Bit[cont]);  //Valor convertido de String para vetor de numeros inteiros e consequente -
+         System.out.print(Bit[cont]);  //Valor convertido de String para vetor de números inteiros e consequente -
          System.out.println("\n\n");    //mente apresenta - se novamente o valor convertido em binário
           
        int k = 0, pot = 1, num, aux = 0;
